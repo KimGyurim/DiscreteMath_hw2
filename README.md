@@ -11,9 +11,13 @@ make
 ```
 
 ./hw2 < input.txt
+
+```
 or
+
+```
 ./hw2
-> input
+(or (a1 a2))
 
 ``` 
 
