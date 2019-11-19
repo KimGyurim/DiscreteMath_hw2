@@ -1,5 +1,5 @@
 # DiscreteMath_hw2
-DNF converter and print solution
+DNF converter and DNF solver
 
 ## How to build?
 ```
