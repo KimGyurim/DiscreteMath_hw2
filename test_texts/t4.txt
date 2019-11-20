@@ -1,0 +1,1 @@
+(or a1 (not (or (not a1) a1)))
