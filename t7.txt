@@ -1,0 +1,1 @@
+(or (and a1 a2 a3 (not a1)) (and a4 (not a4) a5 (not a6)) (and a7 a9 (not a3)))
